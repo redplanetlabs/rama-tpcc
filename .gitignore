@@ -1,0 +1,14 @@
+target/
+.classpath
+.settings
+.project
+.lein-failures
+.lein-repl-history
+.nrepl-port
+.factorypath
+.claude/
+NOTES*
+results/
+show-results
+CLAUDE.md
+tpc-c-spec.md

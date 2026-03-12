@@ -1,0 +1,6 @@
+pstate.validate.subindexed.structure.locations: false
+pstate.maximal.schema.validations: false
+worker.max.direct.memory.size: "25000m"
+worker.child.opts: "-Xmx16g -XX:+UseZGC -XX:+ZGenerational -Djute.maxbuffer=4194304"
+worker.worp.server.threads: 20
+worp.client.threads: 20

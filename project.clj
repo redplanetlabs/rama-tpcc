@@ -1,4 +1,4 @@
-(defproject com.rpl/tpcc-benchmark"1.0.0-SNAPSHOT"
+(defproject com.rpl/rama-tpcc "1.0.0-SNAPSHOT"
   :source-paths ["src/clj"]
   :java-source-paths ["src/java"]
   :dependencies [[org.clojure/clojure "1.12.4"]

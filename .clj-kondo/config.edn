@@ -1,0 +1,4 @@
+{:hooks
+ {:analyze-call
+  {rpl.tpcc.types/deffastrecord
+   com.rpl.rama.util.helpers-hooks/defrecord+-hook}}}
